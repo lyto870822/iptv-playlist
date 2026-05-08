@@ -1,12 +1,12 @@
 # 📺 Lista IPTV Completa - 🇨🇺 Cuba + 🇪🇸 España + ⚽ Deportes
 
-Lista M3U con **52 canales** verificados y funcionando — lista para cargar en IPTV Smarters, VLC o cualquier reproductor IPTV.
+Lista M3U con **56 canales** verificados y funcionando — lista para cargar en IPTV Smarters, VLC o cualquier reproductor IPTV.
 
 ## 🇨🇺 Canales Cubanos (11)
 Cubavisión, Cubavisión HD, Cubavisión Internacional, Tele Rebelde, Canal Educativo, Canal Educativo 2, Canal Clave, Multivisión, Canal Habana, Prensa Latina TV, Radio y TV Martí
 
 ## ⚽ Deportes / Fútbol (9)
-Teledeporte (RTVE) · Gol Classics · Esport3 (Catalunya) · Real Madrid TV · **FIFA+ Spain** · **beIN Sports XTRA en Español** · **DAZN Combat** · ETB Events 1 (deportes País Vasco)
+Teledeporte (RTVE) · Gol Classics · Esport3 (Catalunya) · Real Madrid TV · **FIFA+ Spain** · **beIN Sports XTRA en Español** · **DAZN Combat** · **DAZN Ringside** · **DAZN TV** · **DAZN Darts** · **DAZN Handball** · ETB Events 1 (deportes País Vasco)
 
 > **Nota:** DAZN, Movistar, Gol TV (premium), beIN Sports (full) y LaLiga TV son canales de pago. No existen versiones gratuitas públicas funcionales. Las alternativas gratuitas incluidas aquí son FIFA+ (partidos/documentales), beIN XTRA (noticias/resúmenes) y DAZN Combat (boxeo/MMA).
 

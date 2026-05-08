@@ -60,8 +60,20 @@ https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png",⚽ beIN Sports XTRA en Español - Noticias y resúmenes deportivos
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
-#EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",⚽ DAZN Combat - Boxeo, MMA y artes marciales
+#EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",⚽ DAZN Combat - Boxeo, MMA y artes marciales (FAST)
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",⚽ DAZN Ringside - Boxeo y combates (Tubi FAST)
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",⚽ DAZN TV - Contenido deportivo variado (Samsung TV Plus FAST)
+https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",⚽ DAZN Darts - Dardos (Pluto TV DE FAST)
+https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",⚽ DAZN Handball - Balonmano (Pluto TV DE FAST)
+https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png",⚽ ETB Events 1 - Deportes en vivo (País Vasco)
 #EXTVLCOPT:http-referrer=https://www.eitb.eus/
