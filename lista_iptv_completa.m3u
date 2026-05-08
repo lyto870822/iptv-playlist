@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: 🇨🇺 Cuba + 🇪🇸 España + ⚽ Fútbol
+#PLAYLIST: 🇨🇺 Cuba + 🇪🇸 España + ⚽ Deportes (52 canales)
 
 # ============================================================
 # 🇨🇺 CANALES CUBANOS (11 - TODOS VERIFICADOS ✅)
@@ -39,20 +39,33 @@ https://eu1.servers10.com:8081/8192/index.m3u8
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 
 # ============================================================
-# ⚽ CANALES DE DEPORTES / FÚTBOL (5)
+# ⚽ CANALES DE DEPORTES / FÚTBOL (9)
 # ============================================================
 
-#EXTINF:-1 tvg-id="Teledeporte.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Teledeporte_Logo_2021.svg/120px-Teledeporte_Logo_2021.svg.png",⚽ Teledeporte (RTVE) - Partidos en abierto
+#EXTINF:-1 tvg-id="Teledeporte.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Teledeporte_Logo_2021.svg/120px-Teledeporte_Logo_2021.svg.png",⚽ Teledeporte (RTVE) - Fútbol y deportes en abierto
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
-#EXTINF:-1 tvg-id="GolClassics.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/GOL_LOGO_2021.png/120px-GOL_LOGO_2021.png",⚽ Gol Classics - Fútbol clásico
+#EXTINF:-1 tvg-id="GolClassics.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/GOL_LOGO_2021.png/120px-GOL_LOGO_2021.png.png",⚽ Gol Classics - Goles y resúmenes de fútbol
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 
 #EXTINF:-1 tvg-id="Esport3.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Logo_Esport3.svg/120px-Logo_Esport3.svg.png",⚽ Esport3 (Catalunya) - Deportes
-https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="RealMadridTV.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Real_Madrid_TV_logo.svg/120px-Real_Madrid_TV_logo.svg.png",⚽ Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",⚽ FIFA+ Spain - Partidos, resúmenes y documentales FIFA
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png",⚽ beIN Sports XTRA en Español - Noticias y resúmenes deportivos
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+
+#EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",⚽ DAZN Combat - Boxeo, MMA y artes marciales
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png",⚽ ETB Events 1 - Deportes en vivo (País Vasco)
+#EXTVLCOPT:http-referrer=https://www.eitb.eus/
+https://cdn1.etbon.eus/oc1/index.m3u8
 
 # ============================================================
 # 🇪🇸 CANALES NACIONALES ESPAÑA (12)
@@ -94,7 +107,11 @@ https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playl
 #EXTINF:-1 tvg-id="CMMTV.es@SD",🇪🇸 CMM TV (Castilla-La Mancha Media)
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
 
-#EXTINF:-1 tvg-id="AragonTV.es@SD",🇪🇸 Aragón TV Internacional
+# ============================================================
+# 🇪🇸 CANALES AUTONÓMICOS ESPAÑA (13)
+# ============================================================
+
+#EXTINF:-1 tvg-id="AragonTV.es@SD",🇪🇸 Aragón TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 tvg-id="TeleCanaria.es@SD",🇪🇸 Televisión Canaria
@@ -103,11 +120,33 @@ https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
 #EXTINF:-1 tvg-id="GaliciaTVEuropa.es@SD",🇪🇸 Galicia TV Europa
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dvkzH8n.png",🇪🇸 TVG (Televisión de Galicia)
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dvkzH8n.png",🇪🇸 TVG2 (Televisión de Galicia)
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+
+#EXTINF:-1 tvg-id="ETB1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png",🇪🇸 ETB1 (Euskal Telebista - País Vasco)
+#EXTVLCOPT:http-referrer=https://www.eitb.eus/
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="ETB2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png",🇪🇸 ETB2 (Euskal Telebista - País Vasco)
+#EXTVLCOPT:http-referrer=https://www.eitb.eus/
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="ETBBasque.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/960px-ETB_Basque_2022_logo.svg.png",🇪🇸 ETB Basque (Internacional)
+#EXTVLCOPT:http-referrer=https://www.eitb.eus/
+https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8
+
 #EXTINF:-1 tvg-id="CanalExtremaduraSat.es@SD",🇪🇸 Canal Extremadura Satélite
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7TeleValencia.es@SD",🇪🇸 7 TeleValencia
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+
+# ============================================================
+# 🇪🇸 CANALES PRIVADOS ESPAÑA (2)
+# ============================================================
 
 #EXTINF:-1 tvg-id="Antena3Internacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Antena_3_logo_2022.svg/120px-Antena_3_logo_2022.svg.png",🇪🇸 Antena 3 Internacional
 http://181.114.57.246:4000/play/akjWPSp33R6D9dv3/index.m3u8
@@ -116,7 +155,7 @@ http://181.114.57.246:4000/play/akjWPSp33R6D9dv3/index.m3u8
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 
 # ============================================================
-# 🎬 CANALES DE ENTRETENIMIENTO ESPAÑOLES (8)
+# 🎬 CANALES DE ENTRETENIMIENTO ESPAÑOLES (6)
 # ============================================================
 
 #EXTINF:-1 tvg-id="HOLAplay.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_HOLA%21.png/120px-Logo_HOLA%21.png",🎬 HOLA! Play
